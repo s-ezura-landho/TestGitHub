@@ -1,6 +1,6 @@
 ---
-name: その他
-about: その他のテンプレート
+name: Other
+about: Other issue template
 title: ''
 labels: ''
 assignees: ''
@@ -11,5 +11,5 @@ assignees: ''
 
 ## タスク
 - [ ] hoge
-- [ ] fuga
-- [ ] piyo
+- [ ] hoge
+- [ ] hoge

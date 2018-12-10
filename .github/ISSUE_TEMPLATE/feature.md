@@ -1,6 +1,6 @@
 ---
-name: 機能実装
-about: 機能実装のテンプレート
+name: Feature
+about: Feature issue template
 title: ''
 labels: ''
 assignees: ''
@@ -12,6 +12,6 @@ assignees: ''
 ## 資料
 
 ## タスク
-- [ ]
-- [ ]
-- [ ]
+- [ ] hoge
+- [ ] hoge
+- [ ] hoge
