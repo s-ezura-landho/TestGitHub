@@ -1,6 +1,6 @@
 ---
 name: Other
-about: Other issue template
+about: その他のテンプレート
 title: ''
 labels: ''
 assignees: ''
@@ -13,3 +13,5 @@ assignees: ''
 - [ ] hoge
 - [ ] hoge
 - [ ] hoge
+
+## 関連課題
