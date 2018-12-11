@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Feature issue template
+about: 機能実装のテンプレート
 title: ''
 labels: ''
 assignees: ''
@@ -15,3 +15,7 @@ assignees: ''
 - [ ] hoge
 - [ ] hoge
 - [ ] hoge
+
+## 親の課題
+
+## 関連課題

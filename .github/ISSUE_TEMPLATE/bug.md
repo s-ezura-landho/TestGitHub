@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Bug report issue template
+about: バグ報告のテンプレート
 title: ''
 labels: ''
 assignees: ''
